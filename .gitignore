@@ -1,0 +1,10 @@
+# Airflow generated files
+airflow_home/
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
